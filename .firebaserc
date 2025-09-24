@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "ai-mock-interview-yt-react-ts"
-  }
+    "default": "ai-mock-interview-react-dac2e"
+  },
+  "targets": {},
+  "etags": {}
 }
